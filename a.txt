@@ -3,3 +3,6 @@ hello git
 nishiyigehanpiruanjian
 123456
 over
+
+update a.txt thrid3
+hahhah...
